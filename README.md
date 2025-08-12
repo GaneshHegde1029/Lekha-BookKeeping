@@ -1,2 +1,7 @@
-# Lekha-BookKeeping
-Journal Entry Book keeping Project
+# Lekha Project
+
+This is my README from local repo.
+
+---
+
+This is README from remote repo.
